@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/forcedotcom/SalesforceMobileSDK-Android.svg?branch=unstable)](https://travis-ci.org/forcedotcom/SalesforceMobileSDK-Android)
+[![](https://jitpack.io/v/tsengvn/SalesforceMobileSDK-Android.svg)](https://jitpack.io/#tsengvn/SalesforceMobileSDK-Android)
 
 # Salesforce.com Mobile SDK for Android
 
